@@ -37,4 +37,4 @@ Voltar ao spark shell e digitar :load -v endereço_do_código baixado
 Exemplo
 :load -v /home/thais/Documentos/nasa_challenge/nasa_challenge.scala
 
-##As respostas das questões estão disponíveis no arquivo nasa_challenge-desafioTeorico.pdf
+## As respostas das questões estão disponíveis no arquivo nasa_challenge-desafioTeorico.pdf
