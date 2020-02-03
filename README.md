@@ -1,4 +1,6 @@
-# nasa_challengeHTTP requests to NASA Kennedy Space Center WWW server
+# nasa_challenge
+
+HTTP requests to NASA Kennedy Space Center WWW server
 
 Datasets: Os dois conjuntos de dados não estruturados possuem todas as requisições HTTP para o servidor da NASA Kennedy Space Center WWW na Flórida para os períodos de Julho e Agosto de 1995. 
 Objetivo: Fazer análise exploratória dos dados com a finalidade de encontrar informações relevantes a respeito das requisições HTTP feitas na época.
