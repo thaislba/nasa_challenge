@@ -1,6 +1,8 @@
-# nasa_challenge
+# nasa_challenge (HTTP requests to NASA Kennedy Space Center WWW server)
 
-### HTTP requests to NASA Kennedy Space Center WWW server
+### As respostas das questões estão disponíveis no arquivo nasa_challenge-desafioTeorico.pdf
+
+### Tutorial para replicação do código implementado  
 
 Datasets: Os dois conjuntos de dados não estruturados possuem todas as requisições HTTP para o servidor da NASA Kennedy Space Center WWW na Flórida para os períodos de Julho e Agosto de 1995. 
 Objetivo: Fazer análise exploratória dos dados com a finalidade de encontrar informações relevantes a respeito das requisições HTTP feitas na época.
@@ -39,4 +41,3 @@ Voltar ao spark shell e digitar :load -v endereço_do_código baixado
 Exemplo
 :load -v /home/thais/Documentos/nasa_challenge/nasa_challenge.scala
 
-## As respostas das questões estão disponíveis no arquivo nasa_challenge-desafioTeorico.pdf
